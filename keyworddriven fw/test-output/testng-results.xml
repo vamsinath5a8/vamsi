@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="81" started-at="2018-06-15T10:53:00Z" finished-at="2018-06-15T10:53:00Z">
+    <groups>
+    </groups>
+    <test name="First_testsuite_Test" duration-ms="81" started-at="2018-06-15T10:53:00Z" finished-at="2018-06-15T10:53:00Z">
+      <class name="testng.SampleTest">
+        <test-method status="PASS" signature="cbeforeTest()[pri:0, instance:testng.SampleTest@a3107a]" name="cbeforeTest" is-config="true" duration-ms="29" started-at="2018-06-15T10:53:00Z" finished-at="2018-06-15T10:53:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cbeforeTest -->
+        <test-method status="PASS" signature="bvamsi()[pri:0, instance:testng.SampleTest@a3107a]" name="bvamsi" duration-ms="9" started-at="2018-06-15T10:53:00Z" finished-at="2018-06-15T10:53:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bvamsi -->
+      </class> <!-- testng.SampleTest -->
+      <class name="testng.Sammple2Test">
+        <test-method status="PASS" signature="f()[pri:0, instance:testng.Sammple2Test@1c7e1bb]" name="f" duration-ms="7" started-at="2018-06-15T10:53:00Z" finished-at="2018-06-15T10:53:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testng.Sammple2Test@1c7e1bb]" name="afterTest" is-config="true" duration-ms="1" started-at="2018-06-15T10:53:00Z" finished-at="2018-06-15T10:53:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="dafterTest()[pri:0, instance:testng.SampleTest@a3107a]" name="dafterTest" is-config="true" duration-ms="0" started-at="2018-06-15T10:53:00Z" finished-at="2018-06-15T10:53:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dafterTest -->
+      </class> <!-- testng.Sammple2Test -->
+    </test> <!-- First_testsuite_Test -->
+  </suite> <!-- Suite -->
+</testng-results>
